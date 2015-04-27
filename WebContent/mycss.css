@@ -1,0 +1,55 @@
+a {
+	font-weight: bold;
+	
+}
+.trheight {
+	line-height: 60px;
+}
+div.left {
+	font-weight: bold;
+	color: #FFFFFF;
+	left: 25px;
+	position:relative;
+}
+
+#bottom {
+float:left;
+position:absolute;
+left:552px;
+top:248px;
+}
+#top {
+ 
+
+ float:left;
+
+ bottom:0px;
+ padding:0px;
+ margin:0px;
+ top:0px;
+}
+
+tr#titleempty {
+	
+	height: 140px;
+}
+tr#welcomeempty {
+	height: 50px;
+}
+a.left {
+	color: #FFFFFF;
+}
+body#style {
+	background-image: url(page1.jpg);
+}
+.blackbold {
+	font-weight: bold;
+	color: #000000;
+}
+.mybutton {
+	
+	
+}.bluebold {
+	font-weight: bold;
+	color: #003399;
+}
